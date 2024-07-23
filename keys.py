@@ -1,0 +1,2 @@
+WIFI_SSID = 'TP-Link_FDFC'
+WIFI_PASS = '2714444j'
